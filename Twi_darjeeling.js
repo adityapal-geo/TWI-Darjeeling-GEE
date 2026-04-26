@@ -98,9 +98,9 @@ legend.add(makeRow('darkblue', 'High Wetness'));
 // Add to map
 Map.add(legend);
 
-// =======================================
-// STEP 7: Export TWI Map
-// =======================================
+
+// Export TWI Map
+
 Export.image.toDrive({
   image: twi,
   description: 'TWI_Darjiling',
