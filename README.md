@@ -1,4 +1,4 @@
-![TWI Map](twi_map.png)
+![TWI Map](Twi_map.png)
 
 # TWI-Darjeeling-GEE
 Topographic Wetness Index (TWI) analysis using Google Earth Engine
